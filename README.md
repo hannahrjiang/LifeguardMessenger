@@ -1,1 +1,3 @@
 # LifeguardMessenger
+
+Lifeguards must always be ready to handle an upcoming emergency or first aid situation. My local beach stays prepared by reviewing possible scenarios and their treatments, but the studying process involves flipping through a thick Red Cross First Aid manual to find the correct responses. Because this process is slow and tedious, and because quick and accurate treatment is essential in an emergency situation, I created this Lifeguard SMS Messenger. This messenger can receive a text from a lifeguard detailing a scenario, such as "heart attack" or "dog bite," and will respond with the proper treatment. Whether it is used for studying or in emergency situations, I hope this bot will contribute to lifeguard efficiency and accuracy in the future.
