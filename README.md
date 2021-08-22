@@ -32,7 +32,7 @@ This will cause the following screen to pop up:
 
 ![alt text](https://github.com/hannahrjiang/LifeguardMessenger/blob/main/Images/TerminalView.png "Termial View")
 
-In Twilio, go to the section "Messaging" under the "Numbers" tab and change the settings beside "When a message comes in" to the provided ngrok link. Then, add /sms behind the url. It should look something like this:
+See the link beside the first "forwarding"? In Twilio, go to the section "Messaging" under the "Numbers" tab and change the URL beside "When a message comes in" to that link. Then, add /sms behind it. It should look something like this:
 
 ```
 http://{ngrok url}/sms
