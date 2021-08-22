@@ -4,7 +4,7 @@ Lifeguards must always be ready to handle an upcoming emergency or first aid sit
 
 See the messenger in action [here](https://drive.google.com/file/d/1sIkFuaLDHSfj0gsXDTpLPJaf1r3CLSGd/view?usp=sharing)! (Will open link to Google Drive). 
 
-Right now, the number in the video only responds to phone number that I have approved. If you are a local Parks & Recreation employee who wishes to use the messenger I have developed, please send an email to hannah.jiang1298@gmail.com.
+Right now, the number in the video only responds to phone numbers that I have approved. If you are a local Parks & Recreation employee who wishes to use it, please send an email to hannah.jiang1298@gmail.com.
 
 # How to Use
 
