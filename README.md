@@ -4,6 +4,11 @@ Lifeguards must always be ready to handle an upcoming emergency or first aid sit
 
 See the messenger in action [here](https://drive.google.com/file/d/1sIkFuaLDHSfj0gsXDTpLPJaf1r3CLSGd/view?usp=sharing)! (Will open link to Google Drive)
 
+# How to Use
+
+The messenger is very simple. Start with typing "hello" to the provided number and it will respond with a list of possible scenarios. When a scenario is selected, it will respond with its treatment!
+
+
 # Prerequisites
 
 To recreate this messenger, the following is required:
@@ -32,4 +37,8 @@ In Twilio, go to the section "Messaging" under the "Numbers" tab and change the 
 http://{ngrok url}/sms
 ```
 
+Below, I've copied and pasted that link into Twilio annd saved my changes.
+
 ![alt text](https://github.com/hannahrjiang/LifeguardMessenger/blob/main/Images/TwilioView.png "Twilio View")
+
+Go ahead and run the code in LifeguardMessage.ipynb on your device. You should now be able to text your number and recieve a response.
