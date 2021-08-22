@@ -23,3 +23,5 @@ ngrok http 5050
 ```
 
 This will cause the following screen to pop up:
+
+![alt text](https://github.com/hannahrjiang/markdown-here/raw/master/src/common/images/TerminalView.png "Termial View")
