@@ -1,0 +1,31 @@
+Scenario,Treatment
+SAMPLE,"Signs and symptoms, Allergies, Medications, Past medical history, Last oral intake, Events leading up to incident"
+Dog Bite,"If dog is wild or suspected to have rabies, call EMS immediately. If bleeding is serious, control bleeding and call 911, do not clean the wound. If bleeding is minor, wash the wound with soap and water, control bleeding."
+Burn,"Heat burns: Remove the person from the source of heat. Cool the burn with cold running water for around 10 min, cover wound with loose dressing, take steps to minimize shock.  
+Chemical burns: Call EMS. Brush chemical away with a gloved hand, remove any jewelry. Flush injury with cool running water until EMS arrives. Electrical burns: Ensure that the scene is safe- do not approach the person until they are no longer in contact with the power source. Call 911, be prepared to administer CPR."
+Hypothermia,"The person will be shivering, pale, cold to touch, and may be disoriented. Shivering may stop in severe cases. To treat, call 911. Remove wet clothing and warm the person by wrapping them in a blanket and giving them warm (but not hot) drinks."
+Stroke,"Look for signs of FAST. To treat, call 911, lie victim on back and cover w/ blanket, watch and monitor for LOC"
+FAST,"Face - Weakness/drooping on side of face, Arm - Weakness/numbness in one arm, Speech - slurred speech, Time - time to summon EMS if needed"
+Diabetic Emergency,Give the victim a bit of something containing sugar. Call 911 if their condition worsens or does not improve.
+Seizure,"Move nearby objects away from the person, put a blanket or article of clothing next to (but not under) their head. After the seizure, roll the person to their side so fluids can drain from the mouth. Call 911 if this is the person's first seizure, the episode lasts more than 5 minutes, the seizure takes place in the water, or they don't regain consciousness."
+Fight,"Do not get between the fighters, stand at a distance and tell them that 911 has been or will be called if the fighting does not cease."
+Heat stroke,"The person will have cool, pale, or flushed skin, but may not be sweating. Call 911. Move the person to a cooler place, remove tight clothing and apply cool, wet cloths to skin. Do not give the person water, as LOC can occur."
+Heat exhaustion,"The person will have cool, moist, pale skin, and will be sweating excessively. Move them to a cooler place, remove tight clothing and apply cool, wet cloths to skin. Have them take small sips of room temperature water."
+Punctured Eye,Call EMS. Loosely bandage the object puncturing the eye. Stabilize the object as much as possible by positioning items around the impaled object (such as a cup).
+Broken Arm,"Encourage the person to support the injury with their hand. Put the arm in a triangle bandage and brace, then use gauze to secure it to them."
+Shock,"Shock victims have pale skin, weakness, confusion, weak/rapid pulse, shallow breathing, and blue lips or fingernails. Call EMS, have person lie on their back, give person a shock blanket. Do not give them any food or water. Monitor condition till EMS arrives."
+Nosebleed,Have victim pinch their nose and lean forward. Continue for around 5-10 min until bleeding stops.
+Skull fracture,"Call 911. Place a bit of gauze over the injured area and put pressure around, but not on, the fractured area."
+Heart attack,"Heart attack victims will have pain or pressure in their chest, trouble breathing, and weakness. Assess their breathing and responsiveness. Start CPR if needed. Have them sit down. Loosen tight clothing around neck/chest, treat for shock."
+Choking,"If person choking is still upright and responsive, use the Heimlich maneuver. If person goes unconscious, lower them to the ground and assess breathing and heartbeat. Person CPR, compressions, or emergency breaths as needed."
+Amputation,"Call 911. Put on gloves, then wrap the severed body part in gauze, place it in a plastic bag, then place it in a larger bag of ice and water. Make sure the bag is transported to the medical facility when EMS arrives."
+Bleeding,"Apply firm, direct pressure over wound w/ clean bandage. Do this for 5 minutes or until bleeding stops. If bleeding stops, use gauze, then wrap bandage over gauze and secure. Apply a tourniquet if necessary. If the wound bleeds through several layers of bandage or appears life threatening, call 911."
+Laceration,"Apply firm, direct pressure over wound w/ clean bandage. Do this for 5 minutes or until bleeding stops. If bleeding stops, use gauze, then wrap bandage over gauze and secure. Apply a tourniquet if necessary. If the wound bleeds through several layers of bandage or appears life threatening, call 911."
+Lost tooth,"Handle the tooth without touching the root, gently rinse it in lukewarm water. Put the tooth in milk or coconut water. Encourage the victim to bring the tooth to a dentist as soon as possible."
+Spider bite,"If the person has been bitten by a black widow or brown recluse spider, stung by a scorpion, or has an allergic reaction, call 911. Otherwise, wash the wound and apply an ice pack."
+Sprain,"Remember RICE: 
+Rest the injured body part, 
+Immobilize the injured area in the position it was found, 
+""Cold"" the injury by applying an ice pack, 
+Elevate the injured part if it does not cause more pain. "
+Hello,"Welcome! Select a scenario: SAMPLE, Dog Bite, Burn, Hypothermia, Stroke, FAST, Diabetic Emergency, Seizure, Fight, Heat stroke, Heat exhaustion, Punctured Eye, Broken Arm, Shock, Nosebleed, Skull fracture, Heart attack, Choking, Amputation, Bleeding, Laceration, Lost tooth, Spider bite, Sprain"
