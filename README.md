@@ -12,4 +12,14 @@ To recreate this messenger, the following is required:
 2. Twilio account and Twilio phone number
 3. An sms-webhook service. I used ngrok to test this project, and will be using it as an example below.
 
-If you are a local Parks & Recreation employee who wishes to contact me about using the messenger I have developed, please send an email to hannah.jiang1298@gmail.com.
+If you are a local Parks & Recreation employee who wishes to use the messenger I have developed, please send an email to hannah.jiang1298@gmail.com.
+
+# Running the Project
+
+To start the ngrok proxy, type the following into the Terminal. Note that the port number (in this case, 5050) can be any port that is not currently in use on your computer. I found that ports 3000 and 5000 both worked fine.
+
+```
+ngrok http 5050
+```
+
+This will cause the following screen to pop up:
