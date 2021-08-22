@@ -1,6 +1,6 @@
 # Lifeguard Messenger
 
-Lifeguards must always be ready to handle an upcoming emergency or first aid situation. My local beach stays prepared by reviewing possible scenarios and their treatments, but the studying process involves flipping through a thick Red Cross First Aid manual to find the correct responses. Because this process is slow and tedious, and because quick and accurate treatment is essential in an emergency situation, I created this Lifeguard SMS Messenger. This messenger can receive a text from a lifeguard detailing a scenario, such as "heart attack" or "dog bite," and will respond with the proper treatment. Whether it is used for studying or in emergency situations, I hope this bot will contribute to lifeguard efficiency and accuracy in the future.
+Lifeguards must always be ready to handle an upcoming emergency or first aid situation. My local beach stays prepared by reviewing possible scenarios and their treatments, but the studying process involves flipping through a thick Red Cross First Aid manual to find the correct responses. Because this process is slow and tedious, and because quick and accurate treatment is essential in an emergency situation, I created this Lifeguard SMS Messenger. This messenger receives a text from a lifeguard detailing a scenario, such as "heart attack" or "dog bite," and searches through a table of scenarios to respond with the proper treatment. Whether it is used for studying or in emergency situations, I hope this bot will contribute to lifeguard efficiency and accuracy in the future.
 
 See the messenger in action [here](https://drive.google.com/file/d/1sIkFuaLDHSfj0gsXDTpLPJaf1r3CLSGd/view?usp=sharing)! (Will open link to Google Drive)
 
@@ -21,6 +21,7 @@ If you are a local Parks & Recreation employee who wishes to use the messenger I
 
 # Running the Project
 
+Begin by downloading LifeguardMessage.ipynb and FAScenarios.csv (the table of First Aid Scenarios).
 To start the ngrok proxy, type the following into the Terminal. Note that the port number (in this case, 5050) can be any port that is not currently in use on your computer. I found that ports 3000 and 5000 both worked fine.
 
 ```
