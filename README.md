@@ -38,7 +38,7 @@ In Twilio, go to the section "Messaging" under the "Numbers" tab and change the 
 http://{ngrok url}/sms
 ```
 
-Below, I've copied and pasted that link into Twilio annd saved my changes.
+Below, I've copied and pasted that link into Twilio and saved my changes.
 
 ![alt text](https://github.com/hannahrjiang/LifeguardMessenger/blob/main/Images/TwilioView.png "Twilio View")
 
